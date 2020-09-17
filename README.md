@@ -7,7 +7,7 @@ Support: Arne#7777 on Discord
 - es_extended (legacy) -> https://github.com/esx-framework/es_extended/tree/v1-final
 - LegacyFuel (you can edit this yourself) -> https://github.com/InZidiuZ/LegacyFuel
 
-If you're not using LegacyFuel and want to configure your own fuel script, change line X in ```client/main.lua```
+If you're not using LegacyFuel and want to configure your own fuel script, change line 140 in ```client/main.lua```
 
 # USAGE AND INSTALLATION
 Insert the .sql file in your database and move the images in 'INVENTORYHUD IMAGE' to your image directory of your inventory script.

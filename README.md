@@ -15,6 +15,10 @@ Drag and drop this resource in your ESX folder and start it using ```ensure esx_
 
 # CONFIGURATION OPTIONS
 ```Config.requiredCops``` defines how many cops need to be connected to be able to use this method
+
 ```Config.getVehicle``` defines the vector3 coord where you knock on the door
+
 ```Config.spawnVehicle``` defines the vector3 coord where the vehicle should spawn
+
 ```Config.spawnHeading``` defines where the vehicle should look towards when spawned
+

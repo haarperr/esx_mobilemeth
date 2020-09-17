@@ -5,6 +5,8 @@
 
 Config = {}
 
-Config.requiredCops = 0
+Config.requiredCops = 1
+Config.producingTimeout = 10000 -- TIME IN MS
 Config.getVehicle = vector3(172.40, 252.95, 133.55)
-Config.spawnLocation = {x = 135.15, y = 275.92, z = 109.97, h = 336.22}
+Config.spawnLocation = vector3(135.15, 275.92, 109.97)
+Config.spawnHeading = 336.22
